@@ -14,7 +14,7 @@
 
 1. 下载或克隆本仓库到本地：
    \`\`\`bash
-   git clone https://github.com/您的用户名/PaperTab.git
+   git clone https://github.com/lettimepassby/PaperTab.git
    \`\`\`
 2. 直接通过浏览器打开项目文件夹中的 `index.html`。
 3. 将您的 Markdown 格式表格粘贴到输入框中。
